@@ -1,7 +1,6 @@
-#Assignmnet 4 Week 1
+#Assignment 4 Week 1
 #Tejvir Sohi
 #ECS 32A Fall 2018
-#
 
 #filehandle; file opened for reading
 f = open("Sacramento-1880-2018.NOAA.csv","r")

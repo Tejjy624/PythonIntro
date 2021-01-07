@@ -1,11 +1,10 @@
 #ECS 36A
 #Assignment 5
 #Tejvir Sohi
-#
+
 
 def read_words():
     openfile = open("Alice.txt", "r")
-    templist = []
     letterslist = []
     for lines in openfile:
         for i in lines:
